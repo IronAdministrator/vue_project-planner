@@ -10,7 +10,13 @@
       "id": 2,
       "title": "Make marketing email",
       "details": "Lorem ipsum",
-      "complete": true
+      "complete": false
+    },
+    {
+      "title": "learn flutter",
+      "details": "- learn flutter\n- build Intacts App\n- deploy on appStore & playMarket",
+      "complete": false,
+      "id": 3
     }
   ]
 }
