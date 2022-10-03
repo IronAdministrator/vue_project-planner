@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 1,
-      "title": "Create new homepage banner",
+      "title": "Create new homepage bannersdfsdfsdfsdfsf",
       "details": "Lorem ipsum",
       "complete": false
     },
@@ -13,10 +13,34 @@
       "complete": false
     },
     {
-      "title": "learn flutter",
+      "title": "learn flutter in a good way & and go for mobile development ",
       "details": "- learn flutter\n- build Intacts App\n- deploy on appStore & playMarket",
-      "complete": false,
+      "complete": true,
       "id": 3
+    },
+    {
+      "title": "let's update the title!",
+      "details": "let add something here!",
+      "complete": true,
+      "id": 4
+    },
+    {
+      "title": "Reminder Use",
+      "details": "Started using Reminders with Siri. Till now everything is fine!",
+      "complete": false,
+      "id": 5
+    },
+    {
+      "title": "newTest ",
+      "details": "sdfieieieiefjfefefjefkefj",
+      "complete": true,
+      "id": 6
+    },
+    {
+      "title": "let's add another one",
+      "details": "here is another new one!!!",
+      "complete": false,
+      "id": 7
     }
   ]
 }
